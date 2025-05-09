@@ -1,0 +1,1 @@
+# Percorrendo-Objetos-com-for...in-M-todos-de-Objetos-e-Spread-Operator
